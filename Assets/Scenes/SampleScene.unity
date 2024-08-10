@@ -451,7 +451,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9012907019316314686, guid: 40d51725a1213fe4dadaf955e2e56532, type: 3}
       propertyPath: m_Name
-      value: Ball (1)
+      value: Bird (1)
       objectReference: {fileID: 0}
     - target: {fileID: 9012907019316314686, guid: 40d51725a1213fe4dadaf955e2e56532, type: 3}
       propertyPath: m_IsActive
@@ -700,7 +700,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9012907019316314686, guid: 40d51725a1213fe4dadaf955e2e56532, type: 3}
       propertyPath: m_Name
-      value: Ball (2)
+      value: Bird (2)
       objectReference: {fileID: 0}
     - target: {fileID: 9012907019316314686, guid: 40d51725a1213fe4dadaf955e2e56532, type: 3}
       propertyPath: m_IsActive
@@ -890,7 +890,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9012907019316314686, guid: 40d51725a1213fe4dadaf955e2e56532, type: 3}
       propertyPath: m_Name
-      value: Ball
+      value: Bird
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

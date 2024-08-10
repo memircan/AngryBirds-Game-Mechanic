@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Ball : MonoBehaviour
+public class Bird : MonoBehaviour
 {
 
     public Rigidbody2D rb;
